@@ -1,4 +1,4 @@
-# Protein Counter App
+# Protein Tracker App
 
 App is written in C#, but the main purpose of create it, was to know the possibilities of NoSQL database, Redis.
 
