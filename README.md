@@ -6,12 +6,12 @@ Project was built during Internet course on Pluralsight platform "Building NoSQL
 
 ---
 
-<img alt="Screen 1" src="https://github.com/rbartosinski/Asstest/blob/master/screens/01.jpg" width="800">
+<img alt="Screen 1" src="https://github.com/rbartosinski/ProteinCounter_C-Sharp/blob/master/screens/01.jpg" width="800">
 
-<img alt="Screen 2" src="https://github.com/rbartosinski/Asstest/blob/master/screens/02.jpg" width="800">
+<img alt="Screen 2" src="https://github.com/rbartosinski/ProteinCounter_C-Sharp/blob/master/screens/02.jpg" width="800">
 
-<img alt="Screen 3" src="https://github.com/rbartosinski/Asstest/blob/master/screens/03.jpg" width="800">
+<img alt="Screen 3" src="https://github.com/rbartosinski/ProteinCounter_C-Sharp/blob/master/screens/03.jpg" width="800">
 
-<img alt="Screen 4" src="https://github.com/rbartosinski/Asstest/blob/master/screens/04.jpg" width="800">
+<img alt="Screen 4" src="https://github.com/rbartosinski/ProteinCounter_C-Sharp/blob/master/screens/04.jpg" width="800">
 
-<img alt="Screen 5" src="https://github.com/rbartosinski/Asstest/blob/master/screens/05.jpg" width="800">
+<img alt="Screen 5" src="https://github.com/rbartosinski/ProteinCounter_C-Sharp/blob/master/screens/05.jpg" width="800">
